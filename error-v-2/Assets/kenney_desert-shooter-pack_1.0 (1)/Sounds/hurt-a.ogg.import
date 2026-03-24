@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bax187jxc2fwg"
+path="res://.godot/imported/hurt-a.ogg-0c99d091ccc4a6fb804b3cf53892016b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/kenney_desert-shooter-pack_1.0 (1)/Sounds/hurt-a.ogg"
+dest_files=["res://.godot/imported/hurt-a.ogg-0c99d091ccc4a6fb804b3cf53892016b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

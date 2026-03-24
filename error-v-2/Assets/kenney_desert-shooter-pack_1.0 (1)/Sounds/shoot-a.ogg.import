@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://drjyiy4hdfgfc"
+path="res://.godot/imported/shoot-a.ogg-51231eca51adbf7e945898c44960e12f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/kenney_desert-shooter-pack_1.0 (1)/Sounds/shoot-a.ogg"
+dest_files=["res://.godot/imported/shoot-a.ogg-51231eca51adbf7e945898c44960e12f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

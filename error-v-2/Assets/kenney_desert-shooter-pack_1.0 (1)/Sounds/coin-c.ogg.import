@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c0j6wjxkkn126"
+path="res://.godot/imported/coin-c.ogg-f037b18ef572f6d62feb2fe9c74ba821.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/kenney_desert-shooter-pack_1.0 (1)/Sounds/coin-c.ogg"
+dest_files=["res://.godot/imported/coin-c.ogg-f037b18ef572f6d62feb2fe9c74ba821.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
